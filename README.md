@@ -4,7 +4,11 @@
 
 ### What is System Design?
 
-System Design is the process of designing scalable software systems.
+System Design is the process of designing scalable,reliable and efficient software systems that solve real world problem.
+
+### Key Goal
+
+Scalable,reliable,availablee,maintainable and performance.
 
 ### Why Learn It?
 
